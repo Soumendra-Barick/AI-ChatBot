@@ -90,7 +90,7 @@ npm run dev
 ## ▶️ Run Backend
 
 ```bash
-npm start
+npx nodemon server.js
 ```
 
 ---
