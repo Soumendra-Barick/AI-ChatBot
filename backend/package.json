@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.3.0",
+    "@google/generative-ai": "^0.24.1",
+    "@ljharb/tsconfig": "^0.3.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
