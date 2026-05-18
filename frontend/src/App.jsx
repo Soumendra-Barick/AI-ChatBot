@@ -56,7 +56,7 @@ function App() {
   };
 
   useEffect(() => {
-    let socketInstance = io("http://localhost:3000");
+    let socketInstance = io("https://ai-chatbot-k6r6.onrender.com");
     setSocket(socketInstance);
 
     socketInstance.on("ai-message-response", (response) => {
