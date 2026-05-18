@@ -56,7 +56,7 @@ AI-ChatBot/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-ChatBot.git
+git clone https://github.com/Soumendra-Barick/AI-ChatBot.git
 ```
 
 ---
@@ -106,22 +106,6 @@ API_KEY=your_api_key
 
 ---
 
-## 📸 Screenshots
-
-Add your project screenshots here.
-
----
-
-## 🚀 Deployment
-
-Frontend Deployment:
-- Vercel
-
-Backend Deployment:
-- Render
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
@@ -131,12 +115,6 @@ Contributions are welcome.
 3. Commit changes
 4. Push to the branch
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
