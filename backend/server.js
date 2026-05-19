@@ -7,7 +7,7 @@ const generateResponse = require("./src/service/ai.service");
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors:{
-    origin:"*"
+    origin:"https://ai-chat-bot-gray-eight.vercel.app/"
   }
 });
 
